@@ -1,5 +1,5 @@
 # Certificates
 
-In this repository I keeps all my Course Certificates.
+In this repository I keep all my Course Certificates.
 
 
